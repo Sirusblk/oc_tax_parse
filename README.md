@@ -7,10 +7,15 @@ A simple python program that can build a SQLite database off input text files fr
 
 TBD.
 
-## Notes
+## District Codes
 
-Placentia has a District Code of 059
+051A - Anaheim
+052A - Brea
+053A - Fullerton
+056A - La Habra
+059A - Placentia
+001C - Yorba Linda
 
 ## License
 
-This repository uses the [MIT License](#)
+This repository uses the [MIT License](https://github.com/Sirusblk/oc_tax_parse/blob/master/LICENSE)
